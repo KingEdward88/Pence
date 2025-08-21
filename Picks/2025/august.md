@@ -9,8 +9,8 @@
   </tr>
   <tr>
     <td>TSE:PPL</td>
-    <td>$Pembina Pipeline Corp</td>
-    <tr>$52</tr>
+    <td>Pembina Pipeline Corp</td>
+    <td>$52</td>
   </tr>
   <tr>
     <td>TSE:IVN</td>
