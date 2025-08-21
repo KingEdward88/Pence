@@ -18,11 +18,6 @@
     <td>$10.80</td>
   </tr>
   <tr>
-    <td>TSE:FM</td>
-    <td>First Quantum Minerals Ltd</td>
-    <td>$22.40</td>
-  </tr>
-  <tr>
     <td>TSE:SU</td>
     <td>Suncor Energy Inc</td>
     <td>$53.50</td>
